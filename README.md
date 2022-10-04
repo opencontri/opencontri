@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @opencontri
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Open Source
-- 💞️ I’m looking to collaborate on Web Dev Projects
+- 👋 Hi, I’m Popastack
+- 👀 I’m interested in Programming and Developement
+- 🌱 I’m currently learning Open Source for Collaboration
+- 💞️ I’m looking to collaborate on OpenSource Projects
 
 <!---
 opencontri/opencontri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
