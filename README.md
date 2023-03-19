@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@roshanearth](https://medium.com/@roshanearth)
 
-- 💬 Ask me about **Open Source, Cloud Computing,& Devlopment**
+- 💬 Ask me about **Open Source, Cloud Computing, & Devlopment**
 
 - 📫 How to reach me **roshansharma10200317@gmail.com**
 
