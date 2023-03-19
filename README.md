@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/roshan-earth286/](https://www.linkedin.com/in/roshan-earth286/)
 
-- ⚡ Fun fact **Learning inspire me & I learn thinks on the go!**
+- ⚡ Fun fact **Learning inspire me, I learn thinks on the go and fix the issues!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
